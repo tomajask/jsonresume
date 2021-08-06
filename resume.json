@@ -1,0 +1,410 @@
+{
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/schema.json",
+    "version": "v1.0.0",
+    "lastModified": "2020-08-06T20:00:00",
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "Tomasz Jaskiewicz",
+    "label": "Senior Backend Software Engineer",
+    "image": "https://avatars0.githubusercontent.com/u/3955582?s=460&u=38f220a2c9c658141804f881c334c594eb1642ac&v=4",
+    "summary": "TODO:",
+    "website": "https://tjay.dev",
+    "email": "contact@thomasjaskiewicz.com",
+    "location": {
+      "city": "Cracow",
+      "countryCode": "PL",
+      "region": "Lesser Poland"
+    },
+    "profiles": [
+      {
+        "username": "tomaszjaskiewicz",
+        "url": "https://www.linkedin.com/in/tomaszjaskiewicz/",
+        "network": "linkedin"
+      },
+      {
+        "username": "tomjaskiewicz",
+        "url": "https://twitter.com/tomjaskiewicz",
+        "network": "twitter"
+      },
+      {
+        "url": "https://github.com/tomajask/",
+        "username": "tomajask",
+        "network": "github"
+      },
+      {
+        "url": "https://dev.to/tjay_dev",
+        "username": "tjay_dev",
+        "network": "devto"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "AGH University of Science and Technology in Cracow",
+      "url": "https://www.agh.edu.pl/en/",
+      "area": "Computer Science",
+      "studyType": "Engineer's degree",
+      "startDate": "2010-12-31",
+      "endDate": "2014-12-31",
+      "courses": []
+    },
+    {
+      "institution": "Tischner European University in Cracow",
+      "url": "https://wse.krakow.pl/en/teu/",
+      "area": "Managerial Studies",
+      "studyType": "Postgraduate studies",
+      "startDate": "2014-12-31",
+      "endDate": "2015-12-31",
+      "courses": []
+    }
+  ],
+  "references": [
+    {
+      "name": "Maciej Pastuszka, Senior JavaScript Developer & Team Lead in SYZYGY, Warsaw",
+      "reference": "As the project coordinator, Tomasz showed professionalism, he was able to skillfully plan activities that would translate into results and lead to the intended goal. In addition to team management skills, Tomasz showed knowledge in the field of IT. The combination of these skills contributed not only to the achievement of the goals of the project but also to the development of the members of which Tomasz was the coordinator."
+    },
+    {
+      "name": "Michal Czyzewski, Data Scientist/Machine Learning Specialist",
+      "reference": "Tomasz Jaskiewicz at work shows professionalism and professional curiosity. During the project, Tomasz constantly expanded his knowledge in its field, showed his own initiatives and was heavily involved in the project."
+    }
+  ],
+  "languages": [
+    {
+      "language": "Polish",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": [
+        "HTML / CSS",
+        "Javascript",
+        "Object-Oriented Programming (OOP)",
+        "Ruby / Ruby on Rails / Grape / Sidekiq / Shoryuken",
+        "Git",
+        "MySQL / PostgreSQL / NoSQL",
+        "Software Architecture"
+      ]
+    },
+    {
+      "name": "Devops",
+      "level": "",
+      "keywords": [
+        "Cloud Computing",
+        "Ansible",
+        "Docker",
+        "Terraform",
+        "Amazon Web Services / ECS / S3 / DynamoDB / Lambda / SQS / SNS / RDS / Cloudwatch",
+        "Serverless",
+        "Networking",
+        "Infrastructure as Code"
+      ]
+    },
+    {
+      "name": "Marketing",
+      "level": "",
+      "keywords": [
+        "Social Media Marketing",
+        "Online Marketing",
+        "Brand Management",
+        "Online Advertising",
+        "Online Marketing",
+        "Brand Management",
+        "Digital Marketing",
+        "Email Marketing",
+        "Marketing Strategy",
+        "Web Analytics"
+      ]
+    },
+    {
+      "name": "Soft skills",
+      "level": "",
+      "keywords": [
+        "Project Management",
+        "Strategic Planning",
+        "Team Leadership",
+        "Team Management"
+      ]
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "date": "2020-03-02",
+      "url": "https://www.youracclaim.com/badges/9beeb356-d224-4516-8eaf-623c96ff0199/public_url",
+      "issuer": "Amazon Web Services Training and Certification"
+    },
+    {
+      "name": "Docker Fundamentals",
+      "date": "2019-10-06",
+      "url": "https://verify.acloud.guru/5308F78E8884",
+      "issuer": "A Cloud Guru"
+    }
+  ],
+  "work": [
+    {
+      "summary": "The tech company with a banking license - our Banking-as-a-Service platform has everything you need to build your own banking products.",
+      "name": "solarisBank AG",
+      "position": "Senior Backend Engineer",
+      "startDate": "2017-10-04",
+      "highlights": [
+        "Remote",
+        "Cards Team",
+        "TODO:"
+      ],
+      "url": "https://www.solarisbank.com/en/"
+    },
+    {
+      "summary": "Europe’s finest custom software development company. More than 10 years of experience, over 630 developers and designers specializing in software development, mobile development and product design.",
+      "name": "Netguru",
+      "position": "Senior Ruby on Rails Developer & Team Leader",
+      "startDate": "2016-12-01",
+      "endDate": "2020-01-31",
+      "highlights": [
+        "Project #2: A platform very similar to LinkedIn, but accessible via invitation only.",
+        "Responsibilities: implementing a functionality that enables user to add/remove job opportunity, to/from watching list, integrating application with Segment.io + implementing custom analytics events on backend, developing API for frontend part of the app, implementing a robust search engine with Searchkick and Elasticsearch, refactoring legacy code + improving code quality and test coverage, implementing multiple user type architecture, implementing a CSV importer for adding new users to the platform, designing and implementing state machine structures for most common models, implementing referrals mechanism.",
+        "Project #1: An exclusive career marketplace that connects high-potential candidates to top-tier employers in a streamlined and more effective way.",
+        "Responsibilities: integrating new design with already existing platform, setuping staging environment and deployment with Capistrano, fixing bugs in frontend and backend part, improving code quality by strong app refactoring, speeding up app by optimizing database queries, cleaning codebase by removing legacy code, implementing a panel to add career offers visible on homepage, implementing a dashboard statistics panel to show users activity, fixing security issues, introducing decorators and service object patterns, implement tracking user activity services, introducing page objects pattern and implementing features specs."
+      ],
+      "url": "https://www.netguru.com/"
+    },
+    {
+      "summary": "Europe’s finest custom software development company. More than 10 years of experience, over 630 developers and designers specializing in software development, mobile development and product design.",
+      "name": "Netguru",
+      "position": "Ruby on Rails Developer",
+      "startDate": "2015-04-01",
+      "endDate": "2016-12-01",
+      "highlights": [
+        "Project #2: A career development platform for job-seeking, recruitment and learning for users from emerging economies such as Africa.",
+        "Responsibilities: implementing sending email invitations secured with tokens, main functionalities in the platform like work experience references and skill references, campaign creation multistep form, messaging system using Mailboxer gem, optimizing database queries to avoid performance issues.",
+        "Project #1: Application for passive recruitment which uses external APIs to gather information about candidates and employers looking for new talents.",
+        "Responsibilities: designing and implementing main app's architecture, architecture for API clients, background processing solution using Sidekiq, simple event store solution for processing published events, module for sending daily reports via email, panels for viewing/managing resources in admin panel, monitoring for API queries in admin panel, implementing a service to divide long titles into small meaningful keywords, keeping high code quality (CC 4.0) and high test coverage (95%)."
+      ],
+      "url": "https://www.netguru.com/"
+    },
+    {
+      "summary": "Europe’s finest custom software development company. More than 10 years of experience, over 630 developers and designers specializing in software development, mobile development and product design.",
+      "name": "Netguru",
+      "position": "Junior Ruby on Rails Developer",
+      "startDate": "2015-01-01",
+      "endDate": "2015-03-31",
+      "highlights": [
+        "Project #2: Dedicated flight support management app for aviation professionals worldwide.",
+        "Responsibilities: integrating the application with Amazon S3, improving new contacts addition and editing contacts details.",
+        "Project #1: The app(s) is a system of around 16 Swiss / Austrian / German / Spanish advertising websites, much like small ads in newspapers.",
+        "Responsibilities: generating PDFs for vouchers and invoices, building validations for forms. Improving code quality and code security."
+      ],
+      "url": "https://www.netguru.com/"
+    },
+    {
+      "summary": "Europe’s finest custom software development company. More than 10 years of experience, over 630 developers and designers specializing in software development, mobile development and product design.",
+      "name": "Netguru",
+      "position": "Ruby on Rails Intern",
+      "startDate": "2014-12-01",
+      "endDate": "2015-01-01",
+      "highlights": [
+        "Building a video on demand platform - personal websites, marketing VOD services, processing payments. Implementing discount coupons for purchase orders, sending emails to customers (overdue orders), improving code quality and fixing bugs."
+      ],
+      "url": "https://www.netguru.com/"
+    },
+    {
+      "summary": "",
+      "name": "AIESEC Krakow",
+      "position": "Product Development Manager",
+      "startDate": "2013-10-31",
+      "endDate": "2015-03-31",
+      "highlights": [],
+      "url": "https://aiesec.pl/"
+    },
+    {
+      "summary": "Interactive Agency founded in 2005 specialized in SEO, SEM, Social Media, creating Google Ads, Facebook Ads campaigns.",
+      "name": "MTWeb.pl",
+      "position": "e-Marketing Specialist",
+      "startDate": "2014-06-30",
+      "endDate": "2014-10-31",
+      "highlights": [
+        "Market research",
+        "Preparing email marketing campaigns",
+        "Preparation of marketing strategies",
+        "Brand monitoring",
+        "Advertising Campaigns in Adwords and FB Ads",
+        "Co-preparation of landing pages",
+        "Management of Social Media Channels"
+      ],
+      "url": "https://mtweb.pl/"
+    },
+    {
+      "summary": "",
+      "name": "AIESEC Polska",
+      "position": "Online Marketing Specialist",
+      "startDate": "2014-02-28",
+      "endDate": "2014-07-31",
+      "highlights": [],
+      "url": "https://aiesec.pl/"
+    },
+    {
+      "summary": "",
+      "name": "SALESmanago",
+      "position": "Intern",
+      "startDate": "2013-08-31",
+      "endDate": "2013-11-30",
+      "highlights": [],
+      "url": "https://www.salesmanago.pl/"
+    },
+    {
+      "summary": "",
+      "name": "Krosoft",
+      "position": "Intern",
+      "startDate": "2013-07-31",
+      "endDate": "2013-07-31",
+      "highlights": [],
+      "url": "https://www.krosoft.pl/"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Netguru College",
+      "description": "Ruby on Rails Weekend Workshops | November Edition in Cracow",
+      "highlights": [],
+      "keywords": [
+        "Ruby / Ruby on Rails"
+      ],
+      "startDate": "2018-11-03",
+      "endDate": "2018-11-04",
+      "roles": [
+        "Mentor"
+      ],
+      "entity": "Netguru",
+      "type": "workshops"
+    },
+    {
+      "name": "Netguru College",
+      "description": "Ruby on Rails Weekend Workshops | July Edition in Cracow",
+      "highlights": [],
+      "keywords": [
+        "Ruby / Ruby on Rails"
+      ],
+      "startDate": "2018-07-07",
+      "endDate": "2018-07-08",
+      "roles": [
+        "Mentor"
+      ],
+      "entity": "Netguru",
+      "type": "workshops"
+    },
+    {
+      "name": "Netguru Ruby on Rails Weekend Workshops",
+      "description": "Ruby on Rails Weekend Workshops | December Edition in Katowice",
+      "highlights": [],
+      "keywords": [
+        "Ruby / Ruby on Rails"
+      ],
+      "startDate": "2015-12-05",
+      "endDate": "2015-12-06",
+      "roles": [
+        "Mentor"
+      ],
+      "entity": "Netguru",
+      "type": "workshops"
+    },
+    {
+      "name": "Netguru Ruby on Rails Weekend Workshops",
+      "description": "Ruby on Rails Weekend Workshops | October Edition in Wroclaw",
+      "highlights": [],
+      "keywords": [
+        "Ruby / Ruby on Rails"
+      ],
+      "startDate": "2015-10-03",
+      "endDate": "2015-10-04",
+      "roles": [
+        "Mentor"
+      ],
+      "entity": "Netguru",
+      "type": "workshops"
+    }
+  ],
+  "volunteer": [],
+  "publications": [
+    {
+      "name": "HowTo: My Terminal & Shell setup - Hyper.js + ZSH + starship",
+      "publisher": "TJay.dev | Blog",
+      "releaseDate": "2019-09-08",
+      "url": "https://tjay.dev/howto-my-terminal-shell-setup-hyper-js-zsh-starship/",
+      "summary": "How to configure terminal and shell to stay productive on daily basis? Which shell to use? What are tips & tricks to speed up command line usage?"
+    },
+    {
+      "name": "HowTo: Working efficiently with large files in Ruby",
+      "publisher": "TJay.dev | Blog",
+      "releaseDate": "2019-09-02",
+      "url": "https://tjay.dev/howto-working-efficiently-with-large-files-in-ruby/",
+      "summary": "How to process large files in Ruby while keeping CPU and memory usage in control?"
+    },
+    {
+      "name": "Contributor in Ruby Weekly #292",
+      "publisher": "Ruby Weekly",
+      "releaseDate": "2019-09-02",
+      "url": "https://rubyweekly.com/issues/292",
+      "summary": "Picguard: Visual Identification for Filtering Purposes"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sport",
+      "keywords": [
+        "Triathlon",
+        "Cycling",
+        "Running",
+        "Swimming",
+        "Bikepacking",
+        "Crossfit",
+        "Longboarding",
+        "Yoga",
+        "Kayaking",
+        "Hiking"
+      ]
+    },
+    {
+      "name": "Gardening",
+      "keywords": [
+        "House plants",
+        "Hydroponics",
+        "Water plants"
+      ]
+    },
+    {
+      "name": "Coffee",
+      "keywords": [
+        "Filter coffee",
+        "Home Barista",
+        "Speciality coffee"
+      ]
+    },
+    {
+      "name": "Selfhosting",
+      "keywords": [
+        "Open Source",
+        "Home Automation",
+        "Hosting services at home",
+        "Smart Home",
+        "New Technology"
+      ]
+    },
+    {
+      "name": "Travelling",
+      "keywords": [
+        "Food tourism",
+        "Bikepacking",
+        "Nature lover"
+      ]
+    }
+  ]
+}

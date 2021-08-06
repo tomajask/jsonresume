@@ -1,0 +1,19 @@
+{
+  "name": "jsonresume",
+  "version": "1.0.0",
+  "description": "My JSON Resume",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm install && npm run build",
+    "build": "resume export dist/index.html -r resume.json -t elegant"
+  },
+  "keywords": [
+    "json-resume"
+  ],
+  "author": "Tomasz Jaskiewicz",
+  "license": "ISC",
+  "dependencies": {
+    "jsonresume-theme-elegant": "^1.16.1",
+    "resume-cli": "^3.0.5"
+  }
+}
