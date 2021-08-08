@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "start": "npm install && npm run build",
-    "build": "resume export dist/index.html -r resume.json -t elegant"
+    "build": "resume export dist/index.html -r resume.json -t elegant",
+    "serve": "resume serve -r resume.json -t elegant",
+    "export": "resume export dist/Tomasz_Jaskiewicz_resume.pdf -r resume.json -t elegant"
   },
   "keywords": [
     "json-resume"

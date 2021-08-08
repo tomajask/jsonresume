@@ -8,8 +8,8 @@
   "basics": {
     "name": "Tomasz Jaskiewicz",
     "label": "Senior Backend Software Engineer",
-    "image": "https://avatars0.githubusercontent.com/u/3955582?s=460&u=38f220a2c9c658141804f881c334c594eb1642ac&v=4",
-    "summary": "TODO:",
+    "image": "https://secure.gravatar.com/avatar/acc4d22ff67c8bf3e033a0f2deefdca6",
+    "summary": "I'm a backend software engineer with 6.5+ years' experience in Ruby, 3.5+ years' experience in Fintech industry (especially Cards industry). I'm a professional & skillful Rubyist, passionate about selfhosting, cloud and new technologies. An aspiring DevSecOps practitioner - I believe implementing DevSecOps philosophy makes outstanding projects. I have led multiple projects and teams. I'm looking for next challenge within a people-oriented, great culture, high-growth environment, remotely.",
     "website": "https://tjay.dev",
     "email": "contact@thomasjaskiewicz.com",
     "location": {
@@ -32,6 +32,11 @@
         "url": "https://github.com/tomajask/",
         "username": "tomajask",
         "network": "github"
+      },
+      {
+        "url": "https://www.instagram.com/thomasjaskiewicz/",
+        "username": "thomasjaskiewicz",
+        "network": "instagram"
       },
       {
         "url": "https://dev.to/tjay_dev",
@@ -67,7 +72,7 @@
     },
     {
       "name": "Michal Czyzewski, Data Scientist/Machine Learning Specialist",
-      "reference": "Tomasz Jaskiewicz at work shows professionalism and professional curiosity. During the project, Tomasz constantly expanded his knowledge in its field, showed his own initiatives and was heavily involved in the project."
+      "reference": "Tomasz Jaskiewicz at work shows professionalism and professional curiosity. During the project, Tomasz constantly expanded his knowledge in its field, showed his own initiatives, and was heavily involved in the project."
     }
   ],
   "languages": [
@@ -115,10 +120,6 @@
         "Social Media Marketing",
         "Online Marketing",
         "Brand Management",
-        "Online Advertising",
-        "Online Marketing",
-        "Brand Management",
-        "Digital Marketing",
         "Email Marketing",
         "Marketing Strategy",
         "Web Analytics"
@@ -152,67 +153,67 @@
   ],
   "work": [
     {
-      "summary": "The tech company with a banking license - our Banking-as-a-Service platform has everything you need to build your own banking products.",
+      "summary": "solarisBank builds and provides a Banking-as-a-Service platform for businesses based on various APIs. I joined Cards Team where from the beginning I worked on multiple cards related products, mainly in Ruby language.",
       "name": "solarisBank AG",
       "position": "Senior Backend Engineer",
       "startDate": "2017-10-04",
       "highlights": [
-        "Remote",
-        "Cards Team",
-        "TODO:"
+        "Cards Management - issuing and managing cards, integrating with 3rd party providers.",
+        "Processing Cards Transactions - building a complex mechanism and service for processing card transactions.",
+        "Smart Agent - allowing customers to receive and respond to fraud alerts digitally and moving fraud management away from labour-intensive call centers.",
+        "3D Secure - an additional security layer for online credit and debit card transactions allowing our customers to be safer online.",
+        "Cards Tokenization - tokenization of customers' cards allowing them to use digital wallets, like Apple, Google, Samsung.",
+        "PCI DSS Compliance - building a safe and PCI DSS compliant security system for Cardholder Data (CHD) with Cyber & Architecture Teams.",
+        "Building and moving to AWS infrastructure - designing and implementing infra as code for cards services during the company migration to AWS Cloud by leveraging Amazon Services for specific applications.",
+        "Technologies: AWS: Fargate, S3, Lambda, RDS, DynamoDB, Secrets Manager, Cloudwatch, Terraform, Docker | Ruby: Sidekiq, Shoryuken, Grape, dry-rb, Sequel"
       ],
       "url": "https://www.solarisbank.com/en/"
     },
     {
-      "summary": "Europe’s finest custom software development company. More than 10 years of experience, over 630 developers and designers specializing in software development, mobile development and product design.",
+      "summary": "2 projects: A LinkedIn-like platform for invitation-only users & An exclusive career marketplace that connects high-potential candidates to top-tier employers",
       "name": "Netguru",
       "position": "Senior Ruby on Rails Developer & Team Leader",
       "startDate": "2016-12-01",
       "endDate": "2020-01-31",
       "highlights": [
-        "Project #2: A platform very similar to LinkedIn, but accessible via invitation only.",
-        "Responsibilities: implementing a functionality that enables user to add/remove job opportunity, to/from watching list, integrating application with Segment.io + implementing custom analytics events on backend, developing API for frontend part of the app, implementing a robust search engine with Searchkick and Elasticsearch, refactoring legacy code + improving code quality and test coverage, implementing multiple user type architecture, implementing a CSV importer for adding new users to the platform, designing and implementing state machine structures for most common models, implementing referrals mechanism.",
-        "Project #1: An exclusive career marketplace that connects high-potential candidates to top-tier employers in a streamlined and more effective way.",
-        "Responsibilities: integrating new design with already existing platform, setuping staging environment and deployment with Capistrano, fixing bugs in frontend and backend part, improving code quality by strong app refactoring, speeding up app by optimizing database queries, cleaning codebase by removing legacy code, implementing a panel to add career offers visible on homepage, implementing a dashboard statistics panel to show users activity, fixing security issues, introducing decorators and service object patterns, implement tracking user activity services, introducing page objects pattern and implementing features specs."
+        "Functionality that enables user to add/remove job opportunity, to/from watching list, integrating application with Segment.io + implementing custom analytics events on backend, developing API for frontend part of the app, implementing a robust search engine with Searchkick and Elasticsearch, refactoring legacy code, implementing multiple user type architecture, implementing a CSV importer for adding new users to the platform, designing and implementing state machine structures for most common models, implementing referrals mechanism.",
+        "Integrating new design with an already existing platform, setting up a staging environment and deployment with Capistrano, fixing bugs in frontend and backend part, speeding up an app by optimizing database queries, cleaning codebase by removing legacy code, implementing a panel to add career offers visible on a homepage, implementing a dashboard statistics panel to show users activity, fixing security issues, introducing decorators and service object patterns, implement tracking user activity services, introducing page objects pattern and implementing features specs."
       ],
       "url": "https://www.netguru.com/"
     },
     {
-      "summary": "Europe’s finest custom software development company. More than 10 years of experience, over 630 developers and designers specializing in software development, mobile development and product design.",
+      "summary": "2 projects: A platform for job-seeking, recruitment, and learning for African market & An application for passive recruitment which uses external APIs to gather information about candidates and employers.",
       "name": "Netguru",
       "position": "Ruby on Rails Developer",
       "startDate": "2015-04-01",
       "endDate": "2016-12-01",
       "highlights": [
-        "Project #2: A career development platform for job-seeking, recruitment and learning for users from emerging economies such as Africa.",
-        "Responsibilities: implementing sending email invitations secured with tokens, main functionalities in the platform like work experience references and skill references, campaign creation multistep form, messaging system using Mailboxer gem, optimizing database queries to avoid performance issues.",
-        "Project #1: Application for passive recruitment which uses external APIs to gather information about candidates and employers looking for new talents.",
-        "Responsibilities: designing and implementing main app's architecture, architecture for API clients, background processing solution using Sidekiq, simple event store solution for processing published events, module for sending daily reports via email, panels for viewing/managing resources in admin panel, monitoring for API queries in admin panel, implementing a service to divide long titles into small meaningful keywords, keeping high code quality (CC 4.0) and high test coverage (95%)."
+        "Email invitations secured with tokens, main functionalities in the platform like work experience references and skill references, campaign creation multistep form, a messaging system using Mailboxer gem, optimizing database queries to avoid performance issues.",
+        "Designing and implementing main app's architecture, architecture for API clients, background processing solution using Sidekiq, simple event store solution for processing published events, a module for sending daily reports via email, panels for viewing/managing resources in an admin panel, monitoring for API queries in an admin panel, implementing a service to divide long titles into small meaningful keywords."
       ],
       "url": "https://www.netguru.com/"
     },
     {
-      "summary": "Europe’s finest custom software development company. More than 10 years of experience, over 630 developers and designers specializing in software development, mobile development and product design.",
+      "summary": "2 projects: Flight support management app & Multi-platform where people can find each other quickly, conveniently and exchange services.",
       "name": "Netguru",
       "position": "Junior Ruby on Rails Developer",
       "startDate": "2015-01-01",
       "endDate": "2015-03-31",
       "highlights": [
-        "Project #2: Dedicated flight support management app for aviation professionals worldwide.",
-        "Responsibilities: integrating the application with Amazon S3, improving new contacts addition and editing contacts details.",
-        "Project #1: The app(s) is a system of around 16 Swiss / Austrian / German / Spanish advertising websites, much like small ads in newspapers.",
-        "Responsibilities: generating PDFs for vouchers and invoices, building validations for forms. Improving code quality and code security."
+        "Integrating the application with Amazon S3, improving new contacts addition and editing contacts details.",
+        "Generating PDFs for vouchers and invoices, building validations for forms."
       ],
       "url": "https://www.netguru.com/"
     },
     {
-      "summary": "Europe’s finest custom software development company. More than 10 years of experience, over 630 developers and designers specializing in software development, mobile development and product design.",
+      "summary": "One-month internship in the project building a video on demand platform.",
       "name": "Netguru",
       "position": "Ruby on Rails Intern",
       "startDate": "2014-12-01",
       "endDate": "2015-01-01",
       "highlights": [
-        "Building a video on demand platform - personal websites, marketing VOD services, processing payments. Implementing discount coupons for purchase orders, sending emails to customers (overdue orders), improving code quality and fixing bugs."
+        "Implementing discount coupons for purchase orders",
+        "Sending emails to customers (overdue orders)"
       ],
       "url": "https://www.netguru.com/"
     },
@@ -232,13 +233,7 @@
       "startDate": "2014-06-30",
       "endDate": "2014-10-31",
       "highlights": [
-        "Market research",
-        "Preparing email marketing campaigns",
-        "Preparation of marketing strategies",
-        "Brand monitoring",
-        "Advertising Campaigns in Adwords and FB Ads",
-        "Co-preparation of landing pages",
-        "Management of Social Media Channels"
+        "Preparing email marketing campaigns & marketing strategies with advertising Campaigns in Adwords and FB Ads"
       ],
       "url": "https://mtweb.pl/"
     },
@@ -259,15 +254,6 @@
       "endDate": "2013-11-30",
       "highlights": [],
       "url": "https://www.salesmanago.pl/"
-    },
-    {
-      "summary": "",
-      "name": "Krosoft",
-      "position": "Intern",
-      "startDate": "2013-07-31",
-      "endDate": "2013-07-31",
-      "highlights": [],
-      "url": "https://www.krosoft.pl/"
     }
   ],
   "projects": [
@@ -339,7 +325,7 @@
       "publisher": "TJay.dev | Blog",
       "releaseDate": "2019-09-08",
       "url": "https://tjay.dev/howto-my-terminal-shell-setup-hyper-js-zsh-starship/",
-      "summary": "How to configure terminal and shell to stay productive on daily basis? Which shell to use? What are tips & tricks to speed up command line usage?"
+      "summary": "How to configure terminal and shell to stay productive on a daily basis? Which shell to use? What are tips & tricks to speed up command line usage?"
     },
     {
       "name": "HowTo: Working efficiently with large files in Ruby",
